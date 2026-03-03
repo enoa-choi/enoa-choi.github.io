@@ -1,11 +1,20 @@
-# AI 가지고 혼자 놀기
+# AI Business Lab
 
-AI를 가지고 이것저것 정리하는 공간입니다.
+AI를 활용하여 소규모 F&B 사업을 설계하고 실험하는 프로젝트입니다.
 
-- LLM 관련
-- 자동화 관련
-- AI 전략
-- 시스템 구조화
+## Lab Tracks
 
-Website:
-https://enoa-choi.github.io/
+- ☕ Cafe Lab
+- 🐈 Pet Food Lab
+- 👵 Silver Food Lab
+
+## Focus
+
+- AI 기반 시장 분석
+- 제품 설계 자동화
+- 수익 모델 실험
+- 실행 기록
+
+---
+
+Built with Jekyll + GitHub Pages
