@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Silver Lab
+title: Silver Food Lab
 permalink: /silver/
 ---
 
