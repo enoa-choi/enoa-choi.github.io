@@ -1,6 +1,6 @@
 ---
 layout: page
-title: pet Lab
+title: Pet Food Lab
 permalink: /pet/
 ---
 
