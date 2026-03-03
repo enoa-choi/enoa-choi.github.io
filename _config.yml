@@ -1,5 +1,8 @@
-title: "AI 가지고 혼자 놀기"
-description: "AI로 아무거나 해보는 기록"
-theme: minima
+title: AI Business Lab
+description: AI를 활용한 F&B 사업 설계 실험 기록
 
-markdown: kramdown
+header_pages:
+  - cafe.md
+  - pet.md
+  - silver.md
+  - about.md
